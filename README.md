@@ -75,9 +75,9 @@ Contém a lógica da aplicação com as seguintes funções:
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **Kayke Araújo**.
+Desenvolvido por **Kayke Araujo**.
 
-[🔗 LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/kayke-araujo-guimar%C3%A3es-a27a20221/)) • [📧 Email](mailto:araujokayke2006@gmail.com)
+[🔗 LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/kayke-araujo-guimar%C3%A3es-a27a20221/) • [📧 Email](mailto:araujokayke2006@gmail.com)
 
 ---
 
